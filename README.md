@@ -7,7 +7,7 @@
 <img src=https://telegra.ph/file/e26bbcbe8d448dcc13071.jpg width = 400 height=400>
 <br>
 <h2❤️A WHATSAPP USER BOT BY ALEX
-<h3>"💥PLEASE GIVE ME A STAR💥"</h3>
+<h3>💥PLEASE GIVE ME A STAR💥</h3>
 <br>
 <br>
 

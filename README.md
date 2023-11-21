@@ -38,5 +38,8 @@
    <br>
    <br>
    💢TOTAL PROFILE VIEWS ALEX💢
- <a href=(https://profile-counter.glitch.me/ALEX--MD/count.svg)>
+   <br>
+   
+ #### ```TOTAL PROFILE VIEWS ALEX```
+![Visitor Count](https://profile-counter.glitch.me/ALEX--MD/count.svg)
 

@@ -12,12 +12,12 @@
 <br>
 💖CLICK TO FORK💖
 <br>
-<img src =https://telegra.ph/file/429289d094208891164e4.jpg width=150 height=50>
+<a href="https://github.com/Banukaudula/ALEX--MD/fork"><img align="center" src="https://telegra.ph/file/429289d094208891164e4.jpg" alt="fork" width=150 height=50"> </a>
+<br>
 <br>
 <br>
 💖CLICK TO SCAN QR CODE💖
 <img src=https://telegra.ph/file/136320e59fff621f36034.jpg width=150 height=50>
-<br>
 <br>
 💖CLICK TO DEPLOY IN HEROKU 💖
 <img src=https://telegra.ph/file/27d08fdbd17c39ecf5966.jpg width=150 height=50>
@@ -32,8 +32,9 @@
   <br>
   <h2>😈Contact the owner in whatsapp😈</h2>
   <br>
-  <br>
  <h2>94765359949</h2>
+
+ <!--මෙහි කිසිවක් වෙනස් නොකරන්න මුල් අයිතිය DARK WINGS කණ්ඩායම සතුවේ--->
  
    <br>
    <br>
@@ -42,4 +43,50 @@
    
  #### ```TOTAL PROFILE VIEWS ALEX```
 ![Visitor Count](https://profile-counter.glitch.me/ALEX--MD/count.svg)
+<br>
+
+<h2 align=left>MAIN HELPERS
+<br>
+<br>
+<ul>
+  
+   <li>DARK : ATHEX
+   <li>DARK : NIRO</li>
+   <li>DARK : GAYASHAN</li>
+   <li>DARK : SHANUU</li>
+ <br>
+ <br>
+   MAIN FEATURES
+   <br>
+   <br>   
+   <li>Group Commands
+   <li>Download Commands
+   <li>24 Hour Work Time
+   <li>Full Costermizable
+   <li>Free Deployments
+   <li>Heroku Deploy
+   <li>2x Respond Speed
+
+  </ul>
+<br>
+<br>
+Info 👇</h2>
+<br>
+<pre><b>
+Basic Info
+<br>
+The WhatsApp robot model, initiated on 11/18/2023,
+boasts a remarkable advancement, being 100% more sophisticated than its counterparts.
+Designed with user-friendly features, it offers a simple menu for easy operation,
+making it accessible to anyone. Notably, the <q><abbr title="Niro,Athex,Harsha,Gayashan,Banuka,Shanu"><mark>dark wings team,</mark></abbr></q> led by Dark Athex,
+claims the inaugural rights to this cutting-edge robot, establishing itself as a pioneering
+force in the realm of Sri Lankan WhatsApp bots.
+
+
+   
+
+    
+    
+    
+    
 

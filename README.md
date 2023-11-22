@@ -17,10 +17,13 @@
 <br>
 <br>
 💖CLICK TO SCAN QR CODE💖
+<br>
 <img src=https://telegra.ph/file/136320e59fff621f36034.jpg width=150 height=50>
 <br>
-💖CLICK TO DEPLOY IN HEROKU 💖
-<img src=https://telegra.ph/file/27d08fdbd17c39ecf5966.jpg width=150 height=50>
+<br>
+💖CLICK TO DEPLOY ON HEROKU💖
+<br>
+<a href=https://dashboard.heroku.com/apps/ALEX--MD"><img src=https://telegra.ph/file/27d08fdbd17c39ecf5966.jpg width=150 height=50>
 <br>
 <br>
 <h2><i><ins>🔺Alex Md whatsapp bot is,</i></ins></h2>
@@ -54,6 +57,7 @@
    <li>DARK : NIRO</li>
    <li>DARK : GAYASHAN</li>
    <li>DARK : SHANUU</li>
+   <li>DARK : ALEX
  <br>
  <br>
    MAIN FEATURES
@@ -70,17 +74,6 @@
   </ul>
 <br>
 <br>
-Info 👇</h2>
-<br>
-<pre><b>
-Basic Info
-<br>
-The WhatsApp robot model, initiated on 11/18/2023,
-boasts a remarkable advancement, being 100% more sophisticated than its counterparts.
-Designed with user-friendly features, it offers a simple menu for easy operation,
-making it accessible to anyone. Notably, the <q><abbr title="Niro,Athex,Harsha,Gayashan,Banuka,Shanu"><mark>dark wings team,</mark></abbr></q> led by Dark Athex,
-claims the inaugural rights to this cutting-edge robot, establishing itself as a pioneering
-force in the realm of Sri Lankan WhatsApp bots.
 
 
    

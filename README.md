@@ -1,4 +1,4 @@
-<h1 align=center>❤️ALEX-MD❤️
+8<h1 align=center>❤️ALEX-MD❤️
   <br>
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arn+stylo&size=20&pause=1000&color=6DFF00&random=false&width=435&lines=ALEX-MD+MULTIDEVICE+WHATSAPP+BOT)](https://git.io/typing-svg)
@@ -74,6 +74,17 @@
   </ul>
 <br>
 <br>
+<p align=left><h3>Bot info👇</h3>
+24 hour work time,you can change the bot logo and bot prefix and others
+girls voice massage,dl size change and you can deploy in heroku replit 
+and railway.
+<br>
+<br>
+<h1>❤️Thank for using alex md whatsapp bot❤️</h1>
+
+
+
+
 
 
    

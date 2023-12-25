@@ -69,7 +69,7 @@
    <li>Full Costermizable
    <li>Free Deployments
    <li>Heroku Deploy
-   <li>2x Respond Speed
+   <li>2x Respond Speed>
 
   </ul>
 <br>
@@ -77,10 +77,9 @@
 <p align=left><h3>Bot info👇</h3>
 24 hour work time,you can change the bot logo and bot prefix and others
 girls voice massage,dl size change and you can deploy in heroku replit 
-and railway.
+and railway.>
 <br>
-<br>
-<h1>❤️Thank for using alex md whatsapp bot❤️</h1>
+<br><p align=center><h3></h3>❤️Thank for using alex md whatsapp bot❤️</h3>
 
 
 
